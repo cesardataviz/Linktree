@@ -14,10 +14,10 @@ export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 
 export const profile = {
-  name: "César Romero",
+  name: "Cesar Romero",
   brand: "cesardataviz",
-  headline: "Data & Analytics",
-  bio: "Visualización de datos, Power BI y automatización.",
+  headline: "Data Analytics & AI",
+  bio: "Consultor en proyectos de Data Analytics y AI.",
   avatar: "/avatar.webp",
   quote: {
     text: "Sin datos, solo eres otra persona con una opinión.",
@@ -47,8 +47,8 @@ export const links: ProfileLink[] = [
     id: "whatsapp",
     label: "Escríbeme por WhatsApp",
     // TODO: reemplaza 51999999999 por tu número con código de país, sin "+" ni espacios.
-    href: "https://wa.me/51999999999?text=Hola%20C%C3%A9sar%2C%20vengo%20de%20tu%20web",
-    hint: "Consultas y proyectos →",
+    href: "https://wa.me/51948006515?text=Hola%20C%C3%A9sar%2C%20vengo%20de%20tu%20web",
+    hint: "Solicita información por aquí →",
     icon: "whatsapp",
     variant: "primary",
   },
@@ -62,7 +62,7 @@ export const links: ProfileLink[] = [
     id: "linkedin",
     label: "LinkedIn",
     // TODO: reemplaza por la URL real de tu perfil.
-    href: "https://www.linkedin.com/in/cesardataviz",
+    href: "https://www.linkedin.com/in/cesaraugromero",
     icon: "linkedin",
   },
   {
@@ -76,7 +76,7 @@ export const links: ProfileLink[] = [
     id: "instagram",
     label: "Instagram",
     // TODO: reemplaza por la URL real de tu perfil.
-    href: "https://www.instagram.com/cesardataviz",
+    href: "https://www.instagram.com/cesarrom09",
     icon: "instagram",
   },
 ];

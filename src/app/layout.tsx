@@ -32,7 +32,10 @@ export const metadata: Metadata = {
     description: profile.bio,
   },
   icons: {
-    icon: [{ url: "/icon-192.png", sizes: "192x192", type: "image/png" }],
+    icon: [
+      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+    ],
     apple: [{ url: "/apple-icon.png", sizes: "180x180" }],
   },
 };

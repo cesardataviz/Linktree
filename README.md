@@ -16,7 +16,7 @@ Sigue los pasos en orden. Cada uno depende del anterior.
 
 1. Entra en [supabase.com](https://supabase.com) y crea una cuenta (plan gratuito).
 2. **New project**. Elige una región cercana a tu audiencia — para Perú, `South America (São Paulo)`.
-3. Guarda la contraseña de la base de datos que te genera (no la necesitarás para esto, pero perderla es un fastidio).
+3. Guarda la contraseña de la base de datos que te genera (no la necesitarás para esto, pero perderla es un fastidio). **Guárdala en un gestor de contraseñas, nunca en un archivo del proyecto.**
 4. Espera ~2 minutos a que termine de aprovisionar.
 
 ### Paso 2 · Crear las tablas
